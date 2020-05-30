@@ -1,0 +1,20 @@
+Food            | Price
+Nasi Lemak      | RM 2.50
+Ayam Goreng     | RM 3.20
+Bubur Ayam      | RM 0.50
+Nugget          | RM 4.00
+Coleslaw        | RM 1.70
+Rice            | RM 2.00
+
+Drink           | Price
+Pepsi           | RM 1.60
+Sprite          | RM 1.60
+Coke            | RM 1.60
+Hot Milo        | RM 2.20
+Hot Tea         | RM 1.90
+Coffee          | RM 1.60
+
+Dessert         | Price
+Ice Cream       | RM 3.00
+Mango Pudding   | RM 2.50
+Moist Chocolate | RM 3.00

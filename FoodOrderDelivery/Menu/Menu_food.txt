@@ -1,0 +1,7 @@
+100. Ayam Goreng     | RM 3.20
+101. Bubur Ayam      | RM 3.50
+102. Nugget          | RM 4.00
+103. Rice            | RM 2.00
+104. Coleslaw        | RM 1.70
+105. test            | RM 2.00
+106. tg              | RM 400.00

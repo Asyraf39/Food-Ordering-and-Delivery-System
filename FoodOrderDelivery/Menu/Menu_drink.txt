@@ -1,0 +1,7 @@
+100. Pepsi           | RM 1.60
+101. Sprite          | RM 1.60
+102. Hot Milo        | RM 2.20
+103. Hot Tea         | RM 1.90
+104. Coke            | RM 1.60
+105. Coffee          | RM 2.20
+106. ice lemon tea   | RM 2.50
